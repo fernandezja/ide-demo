@@ -1,0 +1,15 @@
+D:\UTN\Dev-UTN-2024\ide-demo\src\ConsoleApp1\bin\Debug\net9.0\src.exe
+D:\UTN\Dev-UTN-2024\ide-demo\src\ConsoleApp1\bin\Debug\net9.0\src.deps.json
+D:\UTN\Dev-UTN-2024\ide-demo\src\ConsoleApp1\bin\Debug\net9.0\src.runtimeconfig.json
+D:\UTN\Dev-UTN-2024\ide-demo\src\ConsoleApp1\bin\Debug\net9.0\src.dll
+D:\UTN\Dev-UTN-2024\ide-demo\src\ConsoleApp1\bin\Debug\net9.0\src.pdb
+D:\UTN\Dev-UTN-2024\ide-demo\src\ConsoleApp1\obj\Debug\net9.0\src.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\Dev-UTN-2024\ide-demo\src\ConsoleApp1\obj\Debug\net9.0\src.AssemblyInfoInputs.cache
+D:\UTN\Dev-UTN-2024\ide-demo\src\ConsoleApp1\obj\Debug\net9.0\src.AssemblyInfo.cs
+D:\UTN\Dev-UTN-2024\ide-demo\src\ConsoleApp1\obj\Debug\net9.0\src.csproj.CoreCompileInputs.cache
+D:\UTN\Dev-UTN-2024\ide-demo\src\ConsoleApp1\obj\Debug\net9.0\src.sourcelink.json
+D:\UTN\Dev-UTN-2024\ide-demo\src\ConsoleApp1\obj\Debug\net9.0\src.dll
+D:\UTN\Dev-UTN-2024\ide-demo\src\ConsoleApp1\obj\Debug\net9.0\refint\src.dll
+D:\UTN\Dev-UTN-2024\ide-demo\src\ConsoleApp1\obj\Debug\net9.0\src.pdb
+D:\UTN\Dev-UTN-2024\ide-demo\src\ConsoleApp1\obj\Debug\net9.0\src.genruntimeconfig.cache
+D:\UTN\Dev-UTN-2024\ide-demo\src\ConsoleApp1\obj\Debug\net9.0\ref\src.dll
